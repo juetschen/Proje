@@ -1,0 +1,12 @@
+C:\Users\Enes\source\repos\otel_uygulamasi\otel_uygulamasi\bin\Debug\otel_uygulamasi.exe.config
+C:\Users\Enes\source\repos\otel_uygulamasi\otel_uygulamasi\bin\Debug\otel_uygulamasi.exe
+C:\Users\Enes\source\repos\otel_uygulamasi\otel_uygulamasi\bin\Debug\otel_uygulamasi.pdb
+C:\Users\Enes\source\repos\otel_uygulamasi\otel_uygulamasi\obj\Debug\otel_uygulamasi.csprojAssemblyReference.cache
+C:\Users\Enes\source\repos\otel_uygulamasi\otel_uygulamasi\obj\Debug\otel_uygulamasi.Form1.resources
+C:\Users\Enes\source\repos\otel_uygulamasi\otel_uygulamasi\obj\Debug\otel_uygulamasi.Properties.Resources.resources
+C:\Users\Enes\source\repos\otel_uygulamasi\otel_uygulamasi\obj\Debug\otel_uygulamasi.csproj.GenerateResource.cache
+C:\Users\Enes\source\repos\otel_uygulamasi\otel_uygulamasi\obj\Debug\otel_uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\otel_uygulamasi\otel_uygulamasi\obj\Debug\otel_uygulamasi.exe
+C:\Users\Enes\source\repos\otel_uygulamasi\otel_uygulamasi\obj\Debug\otel_uygulamasi.pdb
+C:\Users\Enes\source\repos\otel_uygulamasi\otel_uygulamasi\obj\Debug\otel_uygulamasi.Form2.resources
+C:\Users\Enes\source\repos\otel_uygulamasi\otel_uygulamasi\obj\Debug\otel_uygulamasi.Form3.resources
